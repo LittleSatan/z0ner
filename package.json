@@ -1,0 +1,14 @@
+{
+  "name": "z0ner",
+  "version": "1.0.0",
+  "description": "media website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "marissa wagner",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
